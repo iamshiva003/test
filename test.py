@@ -17,6 +17,7 @@ class Queue:
     
 queue = Queue()
 
+print("hi")
 while True:
     print ("Enter your choice :")
     choice = int(input("1.Insert \n2.Delete \n3.Display \n4.Exit \n"))
@@ -29,3 +30,4 @@ while True:
     #     queue.display()
     # elif choice == 4:
     #     exit()
+    
