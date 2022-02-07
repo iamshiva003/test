@@ -1,0 +1,23 @@
+1.write a c program to read and calculate item prices used in party and divide the expenses amount in 
+  friends equally in c using structures.
+
+2.write a c program to calculate the length of the string using pointer.
+
+3.write a c program to simulate the working of tower of hannoi problem for N disks. print the total no of 
+  moves taken by the program.
+  
+5.write a c program to demonstrate the working of stack of size N using an array. the operations to be supported
+  are 1.PUSH 2.POP 3.DISPLAY.
+
+8.write a c program to simulate the working of an ordinary queue using an array. Provide operations 
+  1.INSERT 2.DELETE 3.DISPLAY
+
+14.Write a c program to implement Sequential search technique using static array and pointers.
+
+15.Write a c program to implement Binary search using dynamic array.
+
+16.Write a c program to sort a given list by Bubble sort.
+
+17.write a c program to sort a list of N elements using Merge sort technique.
+
+18.write a c program to sort a list of N elements using Quick sort technique.
